@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mara-Cristina Urdea</h1>
 <h3 align="center">Computer Science student.</h3>
 
-- 🌱 I’m currently studying at **Technical University of Cluj-Napoca.**
+🌱 I’m currently studying at **Technical University of Cluj-Napoca.** Here are presented a few of my projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
