@@ -1,0 +1,303 @@
+Time: 1
+Clients: (1, 7, 2) (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 2
+Clients: (1, 7, 2) (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 3
+Clients: (1, 7, 2) (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 4
+Clients: (1, 7, 2) (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 5
+Clients: (1, 7, 2) (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 6
+Clients: (1, 7, 2) (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 7
+Clients: (1, 7, 2) (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 8
+Clients: (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: (1, 7, 2) 
+
+Time: 9
+Clients: (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: (1, 7, 2) 
+
+Time: 10
+Clients: (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 11
+Clients: (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 12
+Clients: (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 13
+Clients: (3, 13, 2) (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 14
+Clients: (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: (3, 13, 2) 
+
+Time: 15
+Clients: (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: (3, 13, 2) 
+
+Time: 16
+Clients: (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 17
+Clients: (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 18
+Clients: (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 19
+Clients: (0, 19, 3) (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 20
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: (0, 19, 3) 
+
+Time: 21
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: (0, 19, 3) 
+
+Time: 22
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: (0, 19, 3) 
+
+Time: 23
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 24
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 25
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 26
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 27
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 28
+Clients: (2, 28, 3) 
+Queue 1: 
+Queue 2: 
+
+Time: 29
+Clients: 
+Queue 1: 
+Queue 2: (2, 28, 3) 
+
+Time: 30
+Clients: 
+Queue 1: 
+Queue 2: (2, 28, 3) 
+
+Time: 31
+Clients: 
+Queue 1: 
+Queue 2: (2, 28, 3) 
+
+Time: 32
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 33
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 34
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 35
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 36
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 37
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 38
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 39
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 40
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 41
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 42
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 43
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 44
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 45
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 46
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 47
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 48
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 49
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 50
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 51
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 52
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 53
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 54
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 55
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 56
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 57
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 58
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 59
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 60
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Average waiting time: 0.1
+Average service time: 2.5
+Peak hour: 20

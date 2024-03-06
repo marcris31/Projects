@@ -1,0 +1,303 @@
+Time: 1
+Clients: (id3, at4, st2) (id0, at6, st3) (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 2
+Clients: (id3, at4, st2) (id0, at6, st3) (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 3
+Clients: (id3, at4, st2) (id0, at6, st3) (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 4
+Clients: (id3, at4, st2) (id0, at6, st3) (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 5
+Clients: (id0, at6, st3) (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: (id3, at4, st2) 
+
+Time: 6
+Clients: (id0, at6, st3) (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: (id3, at4, st2) 
+
+Time: 7
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: (id0, at6, st3) 
+
+Time: 8
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: (id0, at6, st3) 
+
+Time: 9
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: (id0, at6, st3) 
+
+Time: 10
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 11
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 12
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 13
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 14
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 15
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 16
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 17
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 18
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 19
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 20
+Clients: (id2, at20, st3) (id1, at21, st2) 
+Queue 1: 
+Queue 2: 
+
+Time: 21
+Clients: (id1, at21, st2) 
+Queue 1: 
+Queue 2: (id2, at20, st3) 
+
+Time: 22
+Clients: 
+Queue 1: (id1, at21, st2) 
+Queue 2: (id2, at20, st3) 
+
+Time: 23
+Clients: 
+Queue 1: (id1, at21, st2) 
+Queue 2: (id2, at20, st3) 
+
+Time: 24
+Clients: 
+Queue 1: 
+Queue 2: (id2, at20, st3) 
+
+Time: 25
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 26
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 27
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 28
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 29
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 30
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 31
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 32
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 33
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 34
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 35
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 36
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 37
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 38
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 39
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 40
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 41
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 42
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 43
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 44
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 45
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 46
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 47
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 48
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 49
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 50
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 51
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 52
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 53
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 54
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 55
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 56
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 57
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 58
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 59
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Time: 60
+Clients: 
+Queue 1: 
+Queue 2: 
+
+Average waiting time: 0.11666666666666667
+Average service time: 2.5
+Peak hour: 22
