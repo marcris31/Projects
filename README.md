@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying at **Technical University of Cluj-Napoca.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q0Zdptm1_2M2bwi58YvVQBuIPwQgscqG/view?usp=sharing](https://drive.google.com/file/d/1q0Zdptm1_2M2bwi58YvVQBuIPwQgscqG/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1q0Zdptm1_2M2bwi58YvVQBuIPwQgscqG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
