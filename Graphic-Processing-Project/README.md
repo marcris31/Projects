@@ -1,0 +1,2 @@
+# GRAPHIC PROCESSING PROJECT
+This is a OpenGL project in which I was required to made a game like scene. Objects are modeled using Blender, then uploaded in the scene in OpenGL, using C++ to write the program. There are functionalities such as fog effect, night mode, camera functionality to walk through scene, animations, lights. Also there are multiple view modes, such as wireframe view, solid and smooth, point view.
