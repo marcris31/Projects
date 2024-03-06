@@ -12,3 +12,5 @@ application should be designed according to the layered architecture pattern and
 ![image](https://github.com/marcris31/Projects/assets/113884009/a8e19df1-ebde-4d80-9980-e9d5a679ce3c)
 
 A warehouse management system aims to streamline and automate the processes involved in managing inventory, tracking orders and client database. The system should provide functionalities such as inventory management, order processing and reporting.
+
+More information can be found in the attached documentation.
