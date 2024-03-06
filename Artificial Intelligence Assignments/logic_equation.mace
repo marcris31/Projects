@@ -1,0 +1,15 @@
+set(arithmetic).
+assign(max_models, -1).
+assign(domain_size, 10).
+list(distinct).
+[0, A, B, C, D, E, F, G, H, I].
+end_of_list.
+formulas(assumptions).
+  F = 3 * G.
+  2 * B = I.
+  3 * H = 2 * G.
+  2 * A = 4 * G.
+  G = 3 * D.
+  C > E.
+end_of_list.
+

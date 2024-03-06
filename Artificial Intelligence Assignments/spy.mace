@@ -1,0 +1,23 @@
+assign(domain_size, 3).
+assign(max_models, -1).
+
+formulas(persons).
+    all x (person(x) -> knight(x) |  knave(x) | spy(x)).
+    all x (knight(x) -> -knave(x) & -spy(x)).
+    all x (knave(x) -> -spy(x) & -knight(x)).
+    all x (spy(x) -> -knight(x) & -knave(x)).
+    knight(x) -> m(x).
+    knave(x) -> -m(x).
+end_of_list.
+
+formulas(puzzle).
+    person(Alex) & person(Ben) & person(Cody).
+    Alex = 0 & Ben = 1 & Cody = 2.
+    knight(x) & knight(y) -> x = y.
+    knave(x) & knave(y) -> x = y.
+    spy(x) & spy(y) -> x = y.
+    (exists x knight(x)) & (exists x knave(x)) & (exists x spy(x)).
+    m(Alex) <-> knave(Cody).
+    m(Ben) <-> knight(Alex).
+    m(Cody) <-> spy(Cody).
+end_of_list.
