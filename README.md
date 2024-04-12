@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mara-Cristina Urdea</h1>
-<h3 align="center">A Computer Science student.</h3>
+<h3 align="center"> Computer Science Student</h3>
 
 - 🌱 I’m currently studying at **Technical University of Cluj-Napoca.**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1q0Zdptm1_2M2bwi58YvVQBuIPwQgscqG/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
